@@ -1,4 +1,8 @@
-# React + Vite
+# My personal portfolio site 
+Here, you can see my works and learn a little bit about me!
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
