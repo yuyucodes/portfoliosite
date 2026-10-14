@@ -5,7 +5,7 @@ export default function About() {
       <div className="flex flex-col md:flex-row items-center md:items-start gap-8 mb-12">
         {/* Circular Avatar Placeholder */}
         <div className="w-40 h-40 shrink-0 flex items-center justify-center">
-          <img src=https://i.postimg.cc/nztrTdT1/IMG-0188.jpg alt="Avatar" className="overflow-hidden w-full h-full rounded-full object-cover drop-shadow-lg" />
+          <img src="https://i.postimg.cc/nztrTdT1/IMG-0188.jpg" alt="Avatar" className="overflow-hidden w-full h-full rounded-full object-cover drop-shadow-lg" />
         </div>
 
         {/* Title & Subtitle Info */}
