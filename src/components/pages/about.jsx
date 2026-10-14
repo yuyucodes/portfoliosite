@@ -1,3 +1,5 @@
+import avatarImg from '../assets/IMG_0188.jpg';
+
 export default function About() {
   return (
     <div className="pt-16 px-8 mt-16 md:px-24 text-slate-500 max-w-5xl mx-auto">
@@ -5,7 +7,7 @@ export default function About() {
       <div className="flex flex-col md:flex-row items-center md:items-start gap-8 mb-12">
         {/* Circular Avatar Placeholder */}
         <div className="w-40 h-40 shrink-0 flex items-center justify-center">
-          <img src="/public/IMG_0188.jpg" alt="Avatar" className="overflow-hidden w-full h-full rounded-full object-cover drop-shadow-lg" />
+          <img src={avatarImg} alt="Avatar" className="overflow-hidden w-full h-full rounded-full object-cover drop-shadow-lg" />
         </div>
 
         {/* Title & Subtitle Info */}
