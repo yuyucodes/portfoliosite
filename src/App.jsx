@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 /*import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
@@ -71,6 +72,7 @@ function App() {
       <footer className="py-10 text-center text-slate-600 text-sm select-none">
         © 2026 yuyucodes. built with love ᰔ .
       </footer>
+      <Analytics />
     </div>
   );
 }
