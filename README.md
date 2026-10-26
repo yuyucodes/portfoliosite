@@ -1,4 +1,4 @@
-# My personal portfolio site 
+# My personal portfolio site (Deprecated)
 Here, you can see my works and learn a little bit about me!
 
 
